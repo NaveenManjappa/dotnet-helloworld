@@ -1,0 +1,14 @@
+C:\Naveen\Explore\dotnet-helloworld\bin\Debug\net7.0\dotnet-helloworld.exe
+C:\Naveen\Explore\dotnet-helloworld\bin\Debug\net7.0\dotnet-helloworld.deps.json
+C:\Naveen\Explore\dotnet-helloworld\bin\Debug\net7.0\dotnet-helloworld.runtimeconfig.json
+C:\Naveen\Explore\dotnet-helloworld\bin\Debug\net7.0\dotnet-helloworld.dll
+C:\Naveen\Explore\dotnet-helloworld\bin\Debug\net7.0\dotnet-helloworld.pdb
+C:\Naveen\Explore\dotnet-helloworld\obj\Debug\net7.0\dotnet-helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Naveen\Explore\dotnet-helloworld\obj\Debug\net7.0\dotnet-helloworld.AssemblyInfoInputs.cache
+C:\Naveen\Explore\dotnet-helloworld\obj\Debug\net7.0\dotnet-helloworld.AssemblyInfo.cs
+C:\Naveen\Explore\dotnet-helloworld\obj\Debug\net7.0\dotnet-helloworld.csproj.CoreCompileInputs.cache
+C:\Naveen\Explore\dotnet-helloworld\obj\Debug\net7.0\dotnet-helloworld.dll
+C:\Naveen\Explore\dotnet-helloworld\obj\Debug\net7.0\refint\dotnet-helloworld.dll
+C:\Naveen\Explore\dotnet-helloworld\obj\Debug\net7.0\dotnet-helloworld.pdb
+C:\Naveen\Explore\dotnet-helloworld\obj\Debug\net7.0\dotnet-helloworld.genruntimeconfig.cache
+C:\Naveen\Explore\dotnet-helloworld\obj\Debug\net7.0\ref\dotnet-helloworld.dll
